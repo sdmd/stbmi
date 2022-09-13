@@ -1,4 +1,4 @@
-﻿altair==4.2.0
+altair==4.2.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asttokens==2.0.5
@@ -87,10 +87,3 @@ wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.6.0
 zipp==3.7.0
-Click==7.0
-Flask==1.1.1
-itsdangerous==1.1.0
-Jinja2==2.11.3
-MarkupSafe==1.1.1
-pydevd-pycharm==192.7142.79
-Werkzeug==0.16.0
